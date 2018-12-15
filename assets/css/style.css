@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://app.meetsoci.com/uploads/account/1585/sqUDY-2MP2M.png");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+#gem1 {color: #a31aff;
+    font-size: 85px;
+}
+
+#gem2 {color: #009999;
+    font-size: 85px;
+}
+
+#gem3 {color: #ff66a3;
+    font-size: 85px;
+}
+
+#gem4 {color: #007acc;
+    font-size: 85px;
+}
+
+#gems {
+    text-align: center;
+}
